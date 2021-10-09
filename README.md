@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RadexPlaysYT
+- 👀 I’m interested in coding/scripting
+- 🌱 I’m currently learning Scripting/Coding
+- 💞️ I’m looking to collaborate on making games.
